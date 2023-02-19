@@ -1,4 +1,4 @@
-git push -u origin main{{
+{{
     config(
         materialized = 'view',
     )
